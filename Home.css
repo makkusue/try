@@ -1,0 +1,69 @@
+body {
+	background-color: lightseagreen;
+}
+
+.menu {
+	text-align: center;
+	font-size: 30px;
+	margin-top: 10px;
+}
+
+
+.home, .about, .help, .contacts {
+	margin-left: 50px;
+} 
+
+}
+
+.company {
+    font-size: 100px;
+}
+
+.pencil {
+	height: 300px;
+	width: 300px;
+	padding-left: 50px;
+	display: inline;
+	margin-top: 50px;
+}
+
+.notebook {
+	height: 300px;
+	width: 300px;
+	padding-left: 150px;
+	text-align: center;
+	margin-top: 50px;
+}
+
+.ballpen {
+	height: 300px;
+	width: 300px;
+	padding-left: 150px;
+	text-align: center;
+	margin-top: 50px;
+}
+
+.lapis {
+	font-family: arial;
+	padding-left: 160px;
+	margin-top: 0;
+	font-weight: bold;
+}
+
+.note {
+	font-family: arial;
+	padding-left: 255px;
+	margin-top: 0;
+	font-weight: bold;
+}
+
+.pen {
+	font-family: arial;
+	padding-left: 270px;
+	margin-top: 0;
+	font-weight: bold;
+}
+
+.image {
+	float: left;
+}

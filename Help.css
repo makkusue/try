@@ -1,0 +1,22 @@
+body {
+	background-color: lightseagreen;
+}
+
+.menu {
+	text-align: center;
+	font-size: 30px;
+	margin-top: 10px;
+}
+
+p {
+	text-align: center;
+	color: black;
+	font-size: 25px;
+	margin-top: 20;
+	margin-bottom: 100px;
+}
+
+.home, .about, .help, .contacts {
+	margin-left: 50px;
+} 
+

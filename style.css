@@ -1,0 +1,132 @@
+/* Common Styles */
+body {
+    background-color: lightseagreen;
+    text-align: center;
+}
+
+.menu {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.home, .about, .help, .contacts {
+    margin-left: 50px;
+}
+
+.images {
+    margin-top: 50px;
+}
+
+p {
+    text-align: center;
+    color: black;
+}
+
+/* About.CSS Styles */
+p {
+    font-size: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* Contacts.CSS Styles */
+p {
+    font-size: 25px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+/* Help.CSS Styles */
+p {
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+/* Home.CSS Styles */
+h2 {
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    color: pink;
+    font-size: 100px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.pencil {
+    height: 300px;
+    width: 300px;
+    padding-left: 350px;
+    display: inline;
+    margin-top: 50px;
+}
+
+.notebook {
+    height: 300px;
+    width: 300px;
+    padding-left: 150px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.ballpen {
+    height: 300px;
+    width: 300px;
+    padding-left: 150px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.lapis {
+    font-family: arial;
+    padding-left: 320px;
+    margin-top: 0;
+    font-weight: bold;
+}
+
+.note {
+    font-family: arial;
+    padding-left: 150px;
+    margin-top: 0;
+    font-weight: bold;
+}
+
+.pen {
+    font-family: arial;
+    padding-left: 150px;
+    margin-top: 0;
+    font-weight: bold;
+}
+
+.image {
+    float: left;
+}
+
+/* Hover Styles */
+.home:hover, .about:hover, .help:hover, .contacts:hover {
+    background-color: green;
+}
+
+/* Description Styles */
+.description {
+    text-align: center;
+    font-size: 30px;
+    font-family: arial;
+    margin-top: 60px;
+}
+
+/* Center the text by using margin-left and margin-right */
+.description p {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80%;
+}
+
+.lalang {
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    margin-top: 20;
+    margin-bottom: 100px;
+}
